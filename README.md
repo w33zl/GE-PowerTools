@@ -12,6 +12,5 @@ I love to hear you feedback so please check out my [Facebook](https://www.facebo
 * **Create i3d Mappings** - Outputs i3d `<i3dMapping />` XML tags for every selected node in the scenegraph
 * **Create i3d Mappings (v2)** - Outputs i3d `<i3dMapping />` XML tags for every selected node in the scenegraph, alternate syntax for the path index
 
-## Want to report a bug or have a great idea?
-Please check out my [project page](https://go.xilent.se/wzl-modding-projects) to get more details about the my projects or post bug reports/feature requests. Here you will also find information about known issues, tips on workarounds and occationally also hotfixes.
+
 
